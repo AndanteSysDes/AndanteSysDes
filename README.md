@@ -54,12 +54,5 @@ For more details about the IT examinations, please refer to the [Reference Infor
 
 ---
 
-## 📫 Contact
-
-- Email: asuka.saito@andante-sd.com
-- LinkedIn: [asuka-saito-andante](https://www.linkedin.com/in/asuka-saito-andante/)
-- GitHub: [AndanteSysDes](https://github.com/AndanteSysDes)
-
----
 
 Thank you for visiting my GitHub profile!
